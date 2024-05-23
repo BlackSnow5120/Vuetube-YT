@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vuetube-YT/static/css/main.ceefe450.css",
-    "main.js": "/Vuetube-YT/static/js/main.5be78415.js",
+    "main.js": "/Vuetube-YT/static/js/main.0fe81060.js",
     "static/media/vid1.mp4": "/Vuetube-YT/static/media/vid1.ec3076d8736189cd41fe.mp4",
     "static/media/cameron.png": "/Vuetube-YT/static/media/cameron.cedb1ba5832f609542da.png",
     "static/media/tom.png": "/Vuetube-YT/static/media/tom.df63bfcb6f1c8f5d7137.png",
@@ -11,10 +11,10 @@
     "static/media/simon.png": "/Vuetube-YT/static/media/simon.a92c2df263101574e364.png",
     "index.html": "/Vuetube-YT/index.html",
     "main.ceefe450.css.map": "/Vuetube-YT/static/css/main.ceefe450.css.map",
-    "main.5be78415.js.map": "/Vuetube-YT/static/js/main.5be78415.js.map"
+    "main.0fe81060.js.map": "/Vuetube-YT/static/js/main.0fe81060.js.map"
   },
   "entrypoints": [
     "static/css/main.ceefe450.css",
-    "static/js/main.5be78415.js"
+    "static/js/main.0fe81060.js"
   ]
 }
