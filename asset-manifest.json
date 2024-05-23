@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ceefe450.css",
-    "main.js": "/static/js/main.29e83e89.js",
-    "static/media/vid1.mp4": "/static/media/vid1.ec3076d8736189cd41fe.mp4",
-    "static/media/cameron.png": "/static/media/cameron.cedb1ba5832f609542da.png",
-    "static/media/tom.png": "/static/media/tom.df63bfcb6f1c8f5d7137.png",
-    "static/media/logo.png": "/static/media/logo.daaf692ea81dd821a6c9.png",
-    "static/media/jack.png": "/static/media/jack.3a2249a07dd80a9c36a4.png",
-    "static/media/megan.png": "/static/media/megan.d9c678d896bed0b8c031.png",
-    "static/media/simon.png": "/static/media/simon.a92c2df263101574e364.png",
-    "index.html": "/index.html",
-    "main.ceefe450.css.map": "/static/css/main.ceefe450.css.map",
-    "main.29e83e89.js.map": "/static/js/main.29e83e89.js.map"
+    "main.css": "/Vuetube-YT/static/css/main.ceefe450.css",
+    "main.js": "/Vuetube-YT/static/js/main.5be78415.js",
+    "static/media/vid1.mp4": "/Vuetube-YT/static/media/vid1.ec3076d8736189cd41fe.mp4",
+    "static/media/cameron.png": "/Vuetube-YT/static/media/cameron.cedb1ba5832f609542da.png",
+    "static/media/tom.png": "/Vuetube-YT/static/media/tom.df63bfcb6f1c8f5d7137.png",
+    "static/media/logo.png": "/Vuetube-YT/static/media/logo.daaf692ea81dd821a6c9.png",
+    "static/media/jack.png": "/Vuetube-YT/static/media/jack.3a2249a07dd80a9c36a4.png",
+    "static/media/megan.png": "/Vuetube-YT/static/media/megan.d9c678d896bed0b8c031.png",
+    "static/media/simon.png": "/Vuetube-YT/static/media/simon.a92c2df263101574e364.png",
+    "index.html": "/Vuetube-YT/index.html",
+    "main.ceefe450.css.map": "/Vuetube-YT/static/css/main.ceefe450.css.map",
+    "main.5be78415.js.map": "/Vuetube-YT/static/js/main.5be78415.js.map"
   },
   "entrypoints": [
     "static/css/main.ceefe450.css",
-    "static/js/main.29e83e89.js"
+    "static/js/main.5be78415.js"
   ]
 }
