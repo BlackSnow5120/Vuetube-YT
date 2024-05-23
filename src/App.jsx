@@ -10,9 +10,9 @@ const App = () => {
     <div>
 
       <Routes>
-      <Route path="/" element={<Log />} />
-        <Route path="/:num" element={ <Home  sidebar={sidebar} setSidebar={setSidebar}/>} />
-        <Route path=":num/video/:categoryId/:videoId" element={<Video />} />
+      <Route path="Vuetube-YT/" element={<Log />} />
+        <Route path="Vuetube-YT/:num" element={ <Home  sidebar={sidebar} setSidebar={setSidebar}/>} />
+        <Route path="Vuetube-YT/:num/video/:categoryId/:videoId" element={<Video />} />
       </Routes>
     </div>
   );
